@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-regex",
+  "version": "1.0.0",
+  "author": "Andrew Caldwell <andrew512>",
+  "description": "Insomnia plugin to extract a value via regular expression",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew512/insomnia-plugin-regex.git"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "custom",
+    "regex",
+    "environment",
+    "variable",
+    "regular",
+    "expression",
+    "expressions"
+  ],
+  "insomnia": {
+    "name": "regex",
+    "description": "Extract a value via regular expression"
+  }
+}
